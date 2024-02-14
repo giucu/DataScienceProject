@@ -1,205 +1,258 @@
 img_name,feature_a1,feature_a1 - a4,feature_a2,feature_a2-a5,feature_a3,feature_a3 - a2,feature_a4,feature_a4 - a1,feature_a5,feature_a5- a3
-masks\a1\PAT_1033_153_301,2272.5608,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_1051_220_356,10673.317,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_1063_268_919,3563.6787,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_1136_517_92,11382.49,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_1184_678_86,76415.1,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_1223_770_120,88923.71,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_1241_824_82,83322.984,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_1249_861_810,43253.992,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_1324_1146_143,14042.361,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_1332_1174_839,175986.58,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_1401_1374_593,65918.89,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_1407_1402_347,107127.1,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_1408_1406_950,20380.389,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_1414_1426_124,23414.715,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_1492_1705_728,59392.594,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_1536_1819_562,15902.726,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_1547_1876_839,19327.875,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_1547_4231_928,5725.0903,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_1575_2516_618,13360.158,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_1755_3309_828,104708.04,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_1980_4018_929,25686.145,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_2152_4781_332,8199.028,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_872_1709_526,4558.216,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_912_1729_244,14354.095,None,None,None,None,None,None,None,None,None
-masks\a1\PAT_992_1864_653,7686.408,None,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_1033_153_301,None,3122.0627,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_1051_220_356,None,6904.063,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_1063_268_919,None,4375.4395,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_1136_517_92,None,10031.537,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_1184_678_86,None,33771.86,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_1223_770_120,None,72116.65,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_1241_824_82,None,83798.836,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_1249_861_810,None,52691.61,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_1324_1146_143,None,2673.8706,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_1332_1174_839,None,133292.16,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_1401_1374_593,None,52924.3,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_1407_1402_347,None,35302.65,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_1408_1406_950,None,17865.385,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_1414_1426_124,None,19276.541,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_1492_1705_728,None,22963.78,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_1536_1819_562,None,1345.1921,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_1547_1876_839,None,4743.957,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_1547_4231_928,None,792.05884,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_1575_2516_618,None,5065.0117,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_1755_3309_828,None,86918.38,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_1980_4018_929,None,1867.8861,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_2152_4781_332,None,5393.4824,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_872_1709_526,None,5726.906,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_912_1729_244,None,4718.4004,None,None,None,None,None,None,None,None
-masks\a1 - a4\PAT_992_1864_653,None,3117.1099,None,None,None,None,None,None,None,None
-masks\a2\417808737_1323531968339196_3934260519331683417_n,None,None,4792.122,None,None,None,None,None,None,None
-masks\a2\PAT_1184_676_904,None,None,8971.204,None,None,None,None,None,None,None
-masks\a2\PAT_1209_737_590,None,None,68431.34,None,None,None,None,None,None,None
-masks\a2\PAT_1216_760_593,None,None,12351.827,None,None,None,None,None,None,None
-masks\a2\PAT_1245_845_32,None,None,34181.74,None,None,None,None,None,None,None
-masks\a2\PAT_1274_954_677,None,None,23100.23,None,None,None,None,None,None,None
-masks\a2\PAT_1278_966_295,None,None,438887.22,None,None,None,None,None,None,None
-masks\a2\PAT_1301_1063_739,None,None,310537.22,None,None,None,None,None,None,None
-masks\a2\PAT_1310_1097_774,None,None,46883.19,None,None,None,None,None,None,None
-masks\a2\PAT_1333_1177_434,None,None,361963.56,None,None,None,None,None,None,None
-masks\a2\PAT_1411_1415_723,None,None,114927.6,None,None,None,None,None,None,None
-masks\a2\PAT_1464_1612_284,None,None,13228.489,None,None,None,None,None,None,None
-masks\a2\PAT_1495_1708_278,None,None,271289.53,None,None,None,None,None,None,None
-masks\a2\PAT_1707_3148_237,None,None,153858.28,None,None,None,None,None,None,None
-masks\a2\PAT_1726_3228_674,None,None,27179.79,None,None,None,None,None,None,None
-masks\a2\PAT_1928_3876_437,None,None,1168818.5,None,None,None,None,None,None,None
-masks\a2\PAT_1946_3924_929,None,None,36178.35,None,None,None,None,None,None,None
-masks\a2\PAT_2079_4480_586,None,None,69404.516,None,None,None,None,None,None,None
-masks\a2\PAT_2088_4525_507,None,None,8055.1255,None,None,None,None,None,None,None
-masks\a2\PAT_890_1693_454,None,None,68242.56,None,None,None,None,None,None,None
-masks\a2\PAT_890_1693_904,None,None,172061.22,None,None,None,None,None,None,None
-masks\a2\PAT_894_1679_640,None,None,123062.39,None,None,None,None,None,None,None
-masks\a2\PAT_904_1737_511,None,None,146581.89,None,None,None,None,None,None,None
-masks\a2\PAT_942_1792_411,None,None,59943.496,None,None,None,None,None,None,None
-masks\a2\PAT_982_1852_526,None,None,262068.97,None,None,None,None,None,None,None
-masks\a2\PAT_986_1855_702,None,None,74747.47,None,None,None,None,None,None,None
-masks\a3\PAT_251_382_576,None,None,None,None,23841.213,None,None,None,None,None
-masks\a3\PAT_260_400_566,None,None,None,None,5632.675,None,None,None,None,None
-masks\a3\PAT_263_1480_753,None,None,None,None,354341.44,None,None,None,None,None
-masks\a3\PAT_272_420_10,None,None,None,None,637953.1,None,None,None,None,None
-masks\a3\PAT_277_1309_814,None,None,None,None,222156.8,None,None,None,None,None
-masks\a3\PAT_299_1455_759,None,None,None,None,34544.074,None,None,None,None,None
-masks\a3\PAT_300_1689_862,None,None,None,None,2230.6982,None,None,None,None,None
-masks\a3\PAT_317_675_144,None,None,None,None,11448.356,None,None,None,None,None
-masks\a3\PAT_318_677_278,None,None,None,None,5875.435,None,None,None,None,None
-masks\a3\PAT_323_687_169,None,None,None,None,189433.53,None,None,None,None,None
-masks\a3\PAT_324_1465_43,None,None,None,None,140530.19,None,None,None,None,None
-masks\a3\PAT_325_1506_440,None,None,None,None,191256.94,None,None,None,None,None
-masks\a3\PAT_364_748_278,None,None,None,None,16297.105,None,None,None,None,None
-masks\a3\PAT_367_753_130,None,None,None,None,8871.761,None,None,None,None,None
-masks\a3\PAT_370_2558_573,None,None,None,None,774603.94,None,None,None,None,None
-masks\a3\PAT_370_758_322,None,None,None,None,7994.698,None,None,None,None,None
-masks\a3\PAT_383_777_129,None,None,None,None,63212.02,None,None,None,None,None
-masks\a3\PAT_388_1589_976,None,None,None,None,171361.11,None,None,None,None,None
-masks\a3\PAT_388_1592_576,None,None,None,None,117565.49,None,None,None,None,None
-masks\a3\PAT_392_792_22,None,None,None,None,27101.193,None,None,None,None,None
-masks\a3\PAT_417_828_723,None,None,None,None,87083.22,None,None,None,None,None
-masks\a3\PAT_422_837_617,None,None,None,None,470070.25,None,None,None,None,None
-masks\a3\PAT_439_859_84,None,None,None,None,58421.1,None,None,None,None,None
-masks\a3\PAT_445_871_524,None,None,None,None,137169.78,None,None,None,None,None
-masks\a3\PAT_453_883_719,None,None,None,None,141249.23,None,None,None,None,None
-masks\a3\PAT_471_909_344,None,None,None,None,2028243.1,None,None,None,None,None
-masks\a3 - a2\417808737_1323531968339196_3934260519331683417_n,None,None,None,None,None,4792.122,None,None,None,None
-masks\a3 - a2\PAT_1184_676_904,None,None,None,None,None,8971.204,None,None,None,None
-masks\a3 - a2\PAT_1209_737_590,None,None,None,None,None,68431.34,None,None,None,None
-masks\a3 - a2\PAT_1216_760_593,None,None,None,None,None,12351.827,None,None,None,None
-masks\a3 - a2\PAT_1245_845_32,None,None,None,None,None,34181.74,None,None,None,None
-masks\a3 - a2\PAT_1274_954_677,None,None,None,None,None,23100.23,None,None,None,None
-masks\a3 - a2\PAT_1278_966_295,None,None,None,None,None,438887.22,None,None,None,None
-masks\a3 - a2\PAT_1301_1063_739,None,None,None,None,None,310537.22,None,None,None,None
-masks\a3 - a2\PAT_1310_1097_774,None,None,None,None,None,46883.19,None,None,None,None
-masks\a3 - a2\PAT_1333_1177_434,None,None,None,None,None,361963.56,None,None,None,None
-masks\a3 - a2\PAT_1411_1415_723,None,None,None,None,None,114927.6,None,None,None,None
-masks\a3 - a2\PAT_1464_1612_284,None,None,None,None,None,13228.489,None,None,None,None
-masks\a3 - a2\PAT_1495_1708_278,None,None,None,None,None,271289.53,None,None,None,None
-masks\a3 - a2\PAT_1707_3148_237,None,None,None,None,None,153858.28,None,None,None,None
-masks\a3 - a2\PAT_1726_3228_674,None,None,None,None,None,27179.79,None,None,None,None
-masks\a3 - a2\PAT_1928_3876_437,None,None,None,None,None,1168818.5,None,None,None,None
-masks\a3 - a2\PAT_1946_3924_929,None,None,None,None,None,36178.35,None,None,None,None
-masks\a3 - a2\PAT_2079_4480_586,None,None,None,None,None,69404.516,None,None,None,None
-masks\a3 - a2\PAT_2088_4525_507,None,None,None,None,None,8055.1255,None,None,None,None
-masks\a3 - a2\PAT_890_1693_904,None,None,None,None,None,172061.22,None,None,None,None
-masks\a3 - a2\PAT_894_1679_640,None,None,None,None,None,123062.39,None,None,None,None
-masks\a3 - a2\PAT_904_1737_511,None,None,None,None,None,146581.89,None,None,None,None
-masks\a3 - a2\PAT_942_1792_411,None,None,None,None,None,59943.496,None,None,None,None
-masks\a3 - a2\PAT_982_1852_526,None,None,None,None,None,262068.97,None,None,None,None
-masks\a3 - a2\PAT_986_1855_702,None,None,None,None,None,74747.47,None,None,None,None
-masks\a4\PAT_478_1829_141,None,None,None,None,None,None,19348.863,None,None,None
-masks\a4\PAT_480_921_1,None,None,None,None,None,None,44754.617,None,None,None
-masks\a4\PAT_537_1014_452,None,None,None,None,None,None,55878.52,None,None,None
-masks\a4\PAT_545_1031_428,None,None,None,None,None,None,166296.98,None,None,None
-masks\a4\PAT_567_1078_978,None,None,None,None,None,None,286509.0,None,None,None
-masks\a4\PAT_570_1084_637,None,None,None,None,None,None,16257.942,None,None,None
-masks\a4\PAT_570_1085_344,None,None,None,None,None,None,20519.04,None,None,None
-masks\a4\PAT_573_1090_164,None,None,None,None,None,None,143320.44,None,None,None
-masks\a4\PAT_574_1081_628,None,None,None,None,None,None,4840.7725,None,None,None
-masks\a4\PAT_575_1087_29,None,None,None,None,None,None,13689.643,None,None,None
-masks\a4\PAT_632_1206_634,None,None,None,None,None,None,99438.9,None,None,None
-masks\a4\PAT_632_1206_637,None,None,None,None,None,None,62427.21,None,None,None
-masks\a4\PAT_662_1251_380,None,None,None,None,None,None,55236.926,None,None,None
-masks\a4\PAT_662_1251_43,None,None,None,None,None,None,162724.61,None,None,None
-masks\a4\PAT_665_1261_17,None,None,None,None,None,None,257105.52,None,None,None
-masks\a4\PAT_677_1348_657,None,None,None,None,None,None,47558.766,None,None,None
-masks\a4\PAT_716_1345_460,None,None,None,None,None,None,1966.2117,None,None,None
-masks\a4\PAT_720_1362_700,None,None,None,None,None,None,40319.508,None,None,None
-masks\a4\PAT_753_1834_712,None,None,None,None,None,None,5562.498,None,None,None
-masks\a4\PAT_757_1431_907,None,None,None,None,None,None,3884.7178,None,None,None
-masks\a4\PAT_771_1490_334,None,None,None,None,None,None,87415.76,None,None,None
-masks\a4\PAT_823_1556_787,None,None,None,None,None,None,273165.12,None,None,None
-masks\a4\PAT_851_4520_743,None,None,None,None,None,None,48533.785,None,None,None
-masks\a4\PAT_864_1645_626,None,None,None,None,None,None,116622.12,None,None,None
-masks\a4\PAT_866_1649_674,None,None,None,None,None,None,137534.12,None,None,None
-masks\a4\PAT_876_1665_569,None,None,None,None,None,None,76629.3,None,None,None
-masks\a4 - a1\PAT_478_1829_141,None,None,None,None,None,None,None,4009.463,None,None
-masks\a4 - a1\PAT_480_921_1,None,None,None,None,None,None,None,66839.39,None,None
-masks\a4 - a1\PAT_537_1014_452,None,None,None,None,None,None,None,20524.148,None,None
-masks\a4 - a1\PAT_545_1031_428,None,None,None,None,None,None,None,195561.16,None,None
-masks\a4 - a1\PAT_567_1078_978,None,None,None,None,None,None,None,354749.62,None,None
-masks\a4 - a1\PAT_570_1084_637,None,None,None,None,None,None,None,60903.066,None,None
-masks\a4 - a1\PAT_570_1085_344,None,None,None,None,None,None,None,58483.508,None,None
-masks\a4 - a1\PAT_573_1090_164,None,None,None,None,None,None,None,86690.01,None,None
-masks\a4 - a1\PAT_574_1081_628,None,None,None,None,None,None,None,9209.035,None,None
-masks\a4 - a1\PAT_575_1087_29,None,None,None,None,None,None,None,97327.59,None,None
-masks\a4 - a1\PAT_632_1206_634,None,None,None,None,None,None,None,330172.3,None,None
-masks\a4 - a1\PAT_632_1206_637,None,None,None,None,None,None,None,66509.37,None,None
-masks\a4 - a1\PAT_662_1251_380,None,None,None,None,None,None,None,76278.82,None,None
-masks\a4 - a1\PAT_662_1251_43,None,None,None,None,None,None,None,289446.88,None,None
-masks\a4 - a1\PAT_665_1261_17,None,None,None,None,None,None,None,270901.2,None,None
-masks\a4 - a1\PAT_677_1348_657,None,None,None,None,None,None,None,67324.42,None,None
-masks\a4 - a1\PAT_716_1345_460,None,None,None,None,None,None,None,20553.84,None,None
-masks\a4 - a1\PAT_720_1362_700,None,None,None,None,None,None,None,81264.38,None,None
-masks\a4 - a1\PAT_753_1834_712,None,None,None,None,None,None,None,9294.737,None,None
-masks\a4 - a1\PAT_757_1431_907,None,None,None,None,None,None,None,16091.247,None,None
-masks\a4 - a1\PAT_771_1490_334,None,None,None,None,None,None,None,134814.14,None,None
-masks\a4 - a1\PAT_823_1556_787,None,None,None,None,None,None,None,372497.88,None,None
-masks\a4 - a1\PAT_851_4520_743,None,None,None,None,None,None,None,83831.6,None,None
-masks\a4 - a1\PAT_864_1645_626,None,None,None,None,None,None,None,471642.75,None,None
-masks\a4 - a1\PAT_866_1649_674,None,None,None,None,None,None,None,202257.25,None,None
-masks\a4 - a1\PAT_876_1665_569,None,None,None,None,None,None,None,139026.73,None,None
-masks\a5\PAT_100_393_898,None,None,None,None,None,None,None,None,2034.9607,None
-masks\a5\PAT_13_21_350,None,None,None,None,None,None,None,None,107971.4,None
-masks\a5\PAT_146_217_187,None,None,None,None,None,None,None,None,36385.97,None
-masks\a5\PAT_14_22_850,None,None,None,None,None,None,None,None,50879.1,None
-masks\a5\PAT_161_250_197,None,None,None,None,None,None,None,None,117349.016,None
-masks\a5\PAT_169_694_411,None,None,None,None,None,None,None,None,10507.514,None
-masks\a5\PAT_188_289_859,None,None,None,None,None,None,None,None,119622.44,None
-masks\a5\PAT_191_293_314,None,None,None,None,None,None,None,None,142936.8,None
-masks\a5\PAT_193_297_295,None,None,None,None,None,None,None,None,12369.282,None
-masks\a5\PAT_201_306_781,None,None,None,None,None,None,None,None,63991.582,None
-masks\a5\PAT_220_338_339,None,None,None,None,None,None,None,None,298311.25,None
-masks\a5\PAT_230_1009_92,None,None,None,None,None,None,None,None,10821.06,None
-masks\a5\PAT_237_363_858,None,None,None,None,None,None,None,None,419483.28,None
-masks\a5\PAT_242_369_930,None,None,None,None,None,None,None,None,3711.4666,None
-masks\a5\PAT_248_379_695,None,None,None,None,None,None,None,None,8198.126,None
-masks\a5\PAT_36_50_14,None,None,None,None,None,None,None,None,96540.64,None
-masks\a5\PAT_46_879_386,None,None,None,None,None,None,None,None,112353.4,None
-masks\a5\PAT_56_88_274,None,None,None,None,None,None,None,None,73534.836,None
-masks\a5\PAT_58_91_845,None,None,None,None,None,None,None,None,32134.023,None
-masks\a5\PAT_59_93_573,None,None,None,None,None,None,None,None,332338.0,None
-masks\a5\PAT_63_1075_331,None,None,None,None,None,None,None,None,143480.25,None
-masks\a5\PAT_69_1053_332,None,None,None,None,None,None,None,None,83803.74,None
-masks\a5\PAT_73_111_609,None,None,None,None,None,None,None,None,110559.51,None
-masks\a5\PAT_84_128_233,None,None,None,None,None,None,None,None,1850.8785,None
-masks\a5\PAT_93_361_51,None,None,None,None,None,None,None,None,9374.349,None
+dir_masks\a1\PAT_1033_153_301,2272.5608,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_1051_220_356,10673.317,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_1063_268_919,3563.6787,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_1136_517_92,11382.49,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_1184_678_86,76415.1,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_1223_770_120,88923.71,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_1241_824_82,83322.984,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_1249_861_810,43253.992,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_1324_1146_143,14042.361,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_1332_1174_839,175986.58,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_1401_1374_593,65918.89,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_1407_1402_347,107127.1,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_1408_1406_950,20380.389,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_1414_1426_124,23414.715,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_1492_1705_728,59392.594,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_1536_1819_562,15902.726,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_1547_1876_839,19327.875,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_1547_4231_928,5725.0903,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_1575_2516_618,13360.158,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_1755_3309_828,104708.04,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_1980_4018_929,25686.145,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_2152_4781_332,8199.028,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_872_1709_526,4558.216,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_912_1729_244,14354.095,None,None,None,None,None,None,None,None,None
+dir_masks\a1\PAT_992_1864_653,7686.408,None,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_1033_153_301,None,3122.0627,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_1051_220_356,None,6904.063,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_1063_268_919,None,4375.4395,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_1136_517_92,None,10031.537,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_1184_678_86,None,33771.86,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_1223_770_120,None,72116.65,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_1241_824_82,None,83798.836,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_1249_861_810,None,52691.61,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_1324_1146_143,None,2673.8706,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_1332_1174_839,None,133292.16,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_1401_1374_593,None,52924.3,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_1407_1402_347,None,35302.65,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_1408_1406_950,None,17865.385,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_1414_1426_124,None,19276.541,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_1492_1705_728,None,22963.78,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_1536_1819_562,None,1345.1921,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_1547_1876_839,None,4743.957,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_1547_4231_928,None,792.05884,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_1575_2516_618,None,5065.0117,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_1755_3309_828,None,86918.38,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_1980_4018_929,None,1867.8861,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_2152_4781_332,None,5393.4824,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_872_1709_526,None,5726.906,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_912_1729_244,None,4718.4004,None,None,None,None,None,None,None,None
+dir_masks\a1 - a4\PAT_992_1864_653,None,3117.1099,None,None,None,None,None,None,None,None
+dir_masks\a2\417808737_1323531968339196_3934260519331683417_n,None,None,4792.122,None,None,None,None,None,None,None
+dir_masks\a2\PAT_1184_676_904,None,None,8971.204,None,None,None,None,None,None,None
+dir_masks\a2\PAT_1209_737_590,None,None,68431.34,None,None,None,None,None,None,None
+dir_masks\a2\PAT_1216_760_593,None,None,12351.827,None,None,None,None,None,None,None
+dir_masks\a2\PAT_1245_845_32,None,None,34181.74,None,None,None,None,None,None,None
+dir_masks\a2\PAT_1274_954_677,None,None,23100.23,None,None,None,None,None,None,None
+dir_masks\a2\PAT_1278_966_295,None,None,438887.22,None,None,None,None,None,None,None
+dir_masks\a2\PAT_1301_1063_739,None,None,310537.22,None,None,None,None,None,None,None
+dir_masks\a2\PAT_1310_1097_774,None,None,46883.19,None,None,None,None,None,None,None
+dir_masks\a2\PAT_1333_1177_434,None,None,361963.56,None,None,None,None,None,None,None
+dir_masks\a2\PAT_1411_1415_723,None,None,114927.6,None,None,None,None,None,None,None
+dir_masks\a2\PAT_1464_1612_284,None,None,13228.489,None,None,None,None,None,None,None
+dir_masks\a2\PAT_1495_1708_278,None,None,271289.53,None,None,None,None,None,None,None
+dir_masks\a2\PAT_1707_3148_237,None,None,153858.28,None,None,None,None,None,None,None
+dir_masks\a2\PAT_1726_3228_674,None,None,27179.79,None,None,None,None,None,None,None
+dir_masks\a2\PAT_1928_3876_437,None,None,1168818.5,None,None,None,None,None,None,None
+dir_masks\a2\PAT_1946_3924_929,None,None,36178.35,None,None,None,None,None,None,None
+dir_masks\a2\PAT_2079_4480_586,None,None,69404.516,None,None,None,None,None,None,None
+dir_masks\a2\PAT_2088_4525_507,None,None,8055.1255,None,None,None,None,None,None,None
+dir_masks\a2\PAT_890_1693_454,None,None,68242.56,None,None,None,None,None,None,None
+dir_masks\a2\PAT_890_1693_904,None,None,172061.22,None,None,None,None,None,None,None
+dir_masks\a2\PAT_894_1679_640,None,None,123062.39,None,None,None,None,None,None,None
+dir_masks\a2\PAT_904_1737_511,None,None,146581.89,None,None,None,None,None,None,None
+dir_masks\a2\PAT_942_1792_411,None,None,59943.496,None,None,None,None,None,None,None
+dir_masks\a2\PAT_982_1852_526,None,None,262068.97,None,None,None,None,None,None,None
+dir_masks\a2\PAT_986_1855_702,None,None,74747.47,None,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_1184_676_904,None,None,None,45981.824,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_1209_737_590,None,None,None,93973.01,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_1216_760_593,None,None,None,46163.965,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_1245_845_32,None,None,None,42920.934,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_1274_954_6771,None,None,None,30508.97,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_1278_966_2951,None,None,None,511223.56,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_1301_1063_739,None,None,None,289044.47,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_1310_1097_774,None,None,None,55176.543,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_1333_1177_434,None,None,None,420167.66,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_1411_1415_7231,None,None,None,140039.06,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_1411_1415_723,None,None,None,140163.05,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_1464_1612_284,None,None,None,13110.226,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_1495_1708_2781,None,None,None,287631.47,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_1707_3148_2371,None,None,None,180880.19,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_1726_3228_6741,None,None,None,30742.24,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_1928_3876_4371,None,None,None,1286443.6,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_1946_3924_9291,None,None,None,38901.24,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_2079_4480_5861,None,None,None,111649.35,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_2088_4525_5071,None,None,None,12377.986,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_890_1693_454,None,None,None,110741.07,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_890_1693_904,None,None,None,206371.0,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_894_1679_640,None,None,None,140081.86,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_904_1737_5111,None,None,None,171834.17,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_904_1737_511,None,None,None,191266.38,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_942_1792_411,None,None,None,28380.143,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_982_1852_526,None,None,None,192086.67,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_986_1855_7021,None,None,None,171823.14,None,None,None,None,None,None
+dir_masks\a2-a5\PAT_986_1855_702,None,None,None,124117.77,None,None,None,None,None,None
+dir_masks\a3\PAT_251_382_576,None,None,None,None,23841.213,None,None,None,None,None
+dir_masks\a3\PAT_260_400_566,None,None,None,None,5632.675,None,None,None,None,None
+dir_masks\a3\PAT_263_1480_753,None,None,None,None,354341.44,None,None,None,None,None
+dir_masks\a3\PAT_272_420_10,None,None,None,None,637953.1,None,None,None,None,None
+dir_masks\a3\PAT_277_1309_814,None,None,None,None,222156.8,None,None,None,None,None
+dir_masks\a3\PAT_299_1455_759,None,None,None,None,34544.074,None,None,None,None,None
+dir_masks\a3\PAT_300_1689_862,None,None,None,None,2230.6982,None,None,None,None,None
+dir_masks\a3\PAT_317_675_144,None,None,None,None,11448.356,None,None,None,None,None
+dir_masks\a3\PAT_318_677_278,None,None,None,None,5875.435,None,None,None,None,None
+dir_masks\a3\PAT_323_687_169,None,None,None,None,189433.53,None,None,None,None,None
+dir_masks\a3\PAT_324_1465_43,None,None,None,None,140530.19,None,None,None,None,None
+dir_masks\a3\PAT_325_1506_440,None,None,None,None,191256.94,None,None,None,None,None
+dir_masks\a3\PAT_364_748_278,None,None,None,None,16297.105,None,None,None,None,None
+dir_masks\a3\PAT_367_753_130,None,None,None,None,8871.761,None,None,None,None,None
+dir_masks\a3\PAT_370_2558_573,None,None,None,None,774603.94,None,None,None,None,None
+dir_masks\a3\PAT_370_758_322,None,None,None,None,7994.698,None,None,None,None,None
+dir_masks\a3\PAT_383_777_129,None,None,None,None,63212.02,None,None,None,None,None
+dir_masks\a3\PAT_388_1589_976,None,None,None,None,171361.11,None,None,None,None,None
+dir_masks\a3\PAT_388_1592_576,None,None,None,None,117565.49,None,None,None,None,None
+dir_masks\a3\PAT_392_792_22,None,None,None,None,27101.193,None,None,None,None,None
+dir_masks\a3\PAT_417_828_723,None,None,None,None,87083.22,None,None,None,None,None
+dir_masks\a3\PAT_422_837_617,None,None,None,None,470070.25,None,None,None,None,None
+dir_masks\a3\PAT_439_859_84,None,None,None,None,58421.1,None,None,None,None,None
+dir_masks\a3\PAT_445_871_524,None,None,None,None,137169.78,None,None,None,None,None
+dir_masks\a3\PAT_453_883_719,None,None,None,None,141249.23,None,None,None,None,None
+dir_masks\a3\PAT_471_909_344,None,None,None,None,2028243.1,None,None,None,None,None
+dir_masks\a3 - a2\417808737_1323531968339196_3934260519331683417_n,None,None,None,None,None,4792.122,None,None,None,None
+dir_masks\a3 - a2\PAT_1184_676_904,None,None,None,None,None,8971.204,None,None,None,None
+dir_masks\a3 - a2\PAT_1209_737_590,None,None,None,None,None,68431.34,None,None,None,None
+dir_masks\a3 - a2\PAT_1216_760_593,None,None,None,None,None,12351.827,None,None,None,None
+dir_masks\a3 - a2\PAT_1245_845_32,None,None,None,None,None,34181.74,None,None,None,None
+dir_masks\a3 - a2\PAT_1274_954_677,None,None,None,None,None,23100.23,None,None,None,None
+dir_masks\a3 - a2\PAT_1278_966_295,None,None,None,None,None,438887.22,None,None,None,None
+dir_masks\a3 - a2\PAT_1301_1063_739,None,None,None,None,None,310537.22,None,None,None,None
+dir_masks\a3 - a2\PAT_1310_1097_774,None,None,None,None,None,46883.19,None,None,None,None
+dir_masks\a3 - a2\PAT_1333_1177_434,None,None,None,None,None,361963.56,None,None,None,None
+dir_masks\a3 - a2\PAT_1411_1415_723,None,None,None,None,None,114927.6,None,None,None,None
+dir_masks\a3 - a2\PAT_1464_1612_284,None,None,None,None,None,13228.489,None,None,None,None
+dir_masks\a3 - a2\PAT_1495_1708_278,None,None,None,None,None,271289.53,None,None,None,None
+dir_masks\a3 - a2\PAT_1707_3148_237,None,None,None,None,None,153858.28,None,None,None,None
+dir_masks\a3 - a2\PAT_1726_3228_674,None,None,None,None,None,27179.79,None,None,None,None
+dir_masks\a3 - a2\PAT_1928_3876_437,None,None,None,None,None,1168818.5,None,None,None,None
+dir_masks\a3 - a2\PAT_1946_3924_929,None,None,None,None,None,36178.35,None,None,None,None
+dir_masks\a3 - a2\PAT_2079_4480_586,None,None,None,None,None,69404.516,None,None,None,None
+dir_masks\a3 - a2\PAT_2088_4525_507,None,None,None,None,None,8055.1255,None,None,None,None
+dir_masks\a3 - a2\PAT_890_1693_904,None,None,None,None,None,172061.22,None,None,None,None
+dir_masks\a3 - a2\PAT_894_1679_640,None,None,None,None,None,123062.39,None,None,None,None
+dir_masks\a3 - a2\PAT_904_1737_511,None,None,None,None,None,146581.89,None,None,None,None
+dir_masks\a3 - a2\PAT_942_1792_411,None,None,None,None,None,59943.496,None,None,None,None
+dir_masks\a3 - a2\PAT_982_1852_526,None,None,None,None,None,262068.97,None,None,None,None
+dir_masks\a3 - a2\PAT_986_1855_702,None,None,None,None,None,74747.47,None,None,None,None
+dir_masks\a4\PAT_478_1829_141,None,None,None,None,None,None,19348.863,None,None,None
+dir_masks\a4\PAT_480_921_1,None,None,None,None,None,None,44754.617,None,None,None
+dir_masks\a4\PAT_537_1014_452,None,None,None,None,None,None,55878.52,None,None,None
+dir_masks\a4\PAT_545_1031_428,None,None,None,None,None,None,166296.98,None,None,None
+dir_masks\a4\PAT_567_1078_978,None,None,None,None,None,None,286509.0,None,None,None
+dir_masks\a4\PAT_570_1084_637,None,None,None,None,None,None,16257.942,None,None,None
+dir_masks\a4\PAT_570_1085_344,None,None,None,None,None,None,20519.04,None,None,None
+dir_masks\a4\PAT_573_1090_164,None,None,None,None,None,None,143320.44,None,None,None
+dir_masks\a4\PAT_574_1081_628,None,None,None,None,None,None,4840.7725,None,None,None
+dir_masks\a4\PAT_575_1087_29,None,None,None,None,None,None,13689.643,None,None,None
+dir_masks\a4\PAT_632_1206_634,None,None,None,None,None,None,99438.9,None,None,None
+dir_masks\a4\PAT_632_1206_637,None,None,None,None,None,None,62427.21,None,None,None
+dir_masks\a4\PAT_662_1251_380,None,None,None,None,None,None,55236.926,None,None,None
+dir_masks\a4\PAT_662_1251_43,None,None,None,None,None,None,162724.61,None,None,None
+dir_masks\a4\PAT_665_1261_17,None,None,None,None,None,None,257105.52,None,None,None
+dir_masks\a4\PAT_677_1348_657,None,None,None,None,None,None,47558.766,None,None,None
+dir_masks\a4\PAT_716_1345_460,None,None,None,None,None,None,1966.2117,None,None,None
+dir_masks\a4\PAT_720_1362_700,None,None,None,None,None,None,40319.508,None,None,None
+dir_masks\a4\PAT_753_1834_712,None,None,None,None,None,None,5562.498,None,None,None
+dir_masks\a4\PAT_757_1431_907,None,None,None,None,None,None,3884.7178,None,None,None
+dir_masks\a4\PAT_771_1490_334,None,None,None,None,None,None,87415.76,None,None,None
+dir_masks\a4\PAT_823_1556_787,None,None,None,None,None,None,273165.12,None,None,None
+dir_masks\a4\PAT_851_4520_743,None,None,None,None,None,None,48533.785,None,None,None
+dir_masks\a4\PAT_864_1645_626,None,None,None,None,None,None,116622.12,None,None,None
+dir_masks\a4\PAT_866_1649_674,None,None,None,None,None,None,137534.12,None,None,None
+dir_masks\a4\PAT_876_1665_569,None,None,None,None,None,None,76629.3,None,None,None
+dir_masks\a4 - a1\PAT_478_1829_141,None,None,None,None,None,None,None,4009.463,None,None
+dir_masks\a4 - a1\PAT_480_921_1,None,None,None,None,None,None,None,66839.39,None,None
+dir_masks\a4 - a1\PAT_537_1014_452,None,None,None,None,None,None,None,20524.148,None,None
+dir_masks\a4 - a1\PAT_545_1031_428,None,None,None,None,None,None,None,195561.16,None,None
+dir_masks\a4 - a1\PAT_567_1078_978,None,None,None,None,None,None,None,354749.62,None,None
+dir_masks\a4 - a1\PAT_570_1084_637,None,None,None,None,None,None,None,60903.066,None,None
+dir_masks\a4 - a1\PAT_570_1085_344,None,None,None,None,None,None,None,58483.508,None,None
+dir_masks\a4 - a1\PAT_573_1090_164,None,None,None,None,None,None,None,86690.01,None,None
+dir_masks\a4 - a1\PAT_574_1081_628,None,None,None,None,None,None,None,9209.035,None,None
+dir_masks\a4 - a1\PAT_575_1087_29,None,None,None,None,None,None,None,97327.59,None,None
+dir_masks\a4 - a1\PAT_632_1206_634,None,None,None,None,None,None,None,330172.3,None,None
+dir_masks\a4 - a1\PAT_632_1206_637,None,None,None,None,None,None,None,66509.37,None,None
+dir_masks\a4 - a1\PAT_662_1251_380,None,None,None,None,None,None,None,76278.82,None,None
+dir_masks\a4 - a1\PAT_662_1251_43,None,None,None,None,None,None,None,289446.88,None,None
+dir_masks\a4 - a1\PAT_665_1261_17,None,None,None,None,None,None,None,270901.2,None,None
+dir_masks\a4 - a1\PAT_677_1348_657,None,None,None,None,None,None,None,67324.42,None,None
+dir_masks\a4 - a1\PAT_716_1345_460,None,None,None,None,None,None,None,20553.84,None,None
+dir_masks\a4 - a1\PAT_720_1362_700,None,None,None,None,None,None,None,81264.38,None,None
+dir_masks\a4 - a1\PAT_753_1834_712,None,None,None,None,None,None,None,9294.737,None,None
+dir_masks\a4 - a1\PAT_757_1431_907,None,None,None,None,None,None,None,16091.247,None,None
+dir_masks\a4 - a1\PAT_771_1490_334,None,None,None,None,None,None,None,134814.14,None,None
+dir_masks\a4 - a1\PAT_823_1556_787,None,None,None,None,None,None,None,372497.88,None,None
+dir_masks\a4 - a1\PAT_851_4520_743,None,None,None,None,None,None,None,83831.6,None,None
+dir_masks\a4 - a1\PAT_864_1645_626,None,None,None,None,None,None,None,471642.75,None,None
+dir_masks\a4 - a1\PAT_866_1649_674,None,None,None,None,None,None,None,202257.25,None,None
+dir_masks\a4 - a1\PAT_876_1665_569,None,None,None,None,None,None,None,139026.73,None,None
+dir_masks\a5\PAT_100_393_898,None,None,None,None,None,None,None,None,2034.9607,None
+dir_masks\a5\PAT_13_21_350,None,None,None,None,None,None,None,None,107971.4,None
+dir_masks\a5\PAT_146_217_187,None,None,None,None,None,None,None,None,36385.97,None
+dir_masks\a5\PAT_14_22_850,None,None,None,None,None,None,None,None,50879.1,None
+dir_masks\a5\PAT_161_250_197,None,None,None,None,None,None,None,None,117349.016,None
+dir_masks\a5\PAT_169_694_411,None,None,None,None,None,None,None,None,10507.514,None
+dir_masks\a5\PAT_188_289_859,None,None,None,None,None,None,None,None,119622.44,None
+dir_masks\a5\PAT_191_293_314,None,None,None,None,None,None,None,None,142936.8,None
+dir_masks\a5\PAT_193_297_295,None,None,None,None,None,None,None,None,12369.282,None
+dir_masks\a5\PAT_201_306_781,None,None,None,None,None,None,None,None,63991.582,None
+dir_masks\a5\PAT_220_338_339,None,None,None,None,None,None,None,None,298311.25,None
+dir_masks\a5\PAT_230_1009_92,None,None,None,None,None,None,None,None,10821.06,None
+dir_masks\a5\PAT_237_363_858,None,None,None,None,None,None,None,None,419483.28,None
+dir_masks\a5\PAT_242_369_930,None,None,None,None,None,None,None,None,3711.4666,None
+dir_masks\a5\PAT_248_379_695,None,None,None,None,None,None,None,None,8198.126,None
+dir_masks\a5\PAT_36_50_14,None,None,None,None,None,None,None,None,96540.64,None
+dir_masks\a5\PAT_46_879_386,None,None,None,None,None,None,None,None,112353.4,None
+dir_masks\a5\PAT_56_88_274,None,None,None,None,None,None,None,None,73534.836,None
+dir_masks\a5\PAT_58_91_845,None,None,None,None,None,None,None,None,32134.023,None
+dir_masks\a5\PAT_59_93_573,None,None,None,None,None,None,None,None,332338.0,None
+dir_masks\a5\PAT_63_1075_331,None,None,None,None,None,None,None,None,143480.25,None
+dir_masks\a5\PAT_69_1053_332,None,None,None,None,None,None,None,None,83803.74,None
+dir_masks\a5\PAT_73_111_609,None,None,None,None,None,None,None,None,110559.51,None
+dir_masks\a5\PAT_84_128_233,None,None,None,None,None,None,None,None,1850.8785,None
+dir_masks\a5\PAT_93_361_51,None,None,None,None,None,None,None,None,9374.349,None
+dir_masks\a5- a3\PAT_100_393_898,None,None,None,None,None,None,None,None,None,2406.443
+dir_masks\a5- a3\PAT_13_21_350,None,None,None,None,None,None,None,None,None,87915.22
+dir_masks\a5- a3\PAT_146_217_187,None,None,None,None,None,None,None,None,None,22044.854
+dir_masks\a5- a3\PAT_14_22_850,None,None,None,None,None,None,None,None,None,174292.38
+dir_masks\a5- a3\PAT_161_250_197,None,None,None,None,None,None,None,None,None,173279.73
+dir_masks\a5- a3\PAT_169_694_411,None,None,None,None,None,None,None,None,None,216730.92
+dir_masks\a5- a3\PAT_188_289_859,None,None,None,None,None,None,None,None,None,187776.12
+dir_masks\a5- a3\PAT_191_293_314,None,None,None,None,None,None,None,None,None,205963.7
+dir_masks\a5- a3\PAT_193_297_295,None,None,None,None,None,None,None,None,None,8132.3413
+dir_masks\a5- a3\PAT_201_306_781,None,None,None,None,None,None,None,None,None,92561.82
+dir_masks\a5- a3\PAT_220_338_339,None,None,None,None,None,None,None,None,None,382293.94
+dir_masks\a5- a3\PAT_230_1009_92,None,None,None,None,None,None,None,None,None,15464.655
+dir_masks\a5- a3\PAT_237_363_858,None,None,None,None,None,None,None,None,None,593693.9
+dir_masks\a5- a3\PAT_242_369_930,None,None,None,None,None,None,None,None,None,10766.71
+dir_masks\a5- a3\PAT_248_379_695,None,None,None,None,None,None,None,None,None,14877.231
+dir_masks\a5- a3\PAT_36_50_14,None,None,None,None,None,None,None,None,None,183285.62
+dir_masks\a5- a3\PAT_46_879_386,None,None,None,None,None,None,None,None,None,118249.1
+dir_masks\a5- a3\PAT_56_88_274,None,None,None,None,None,None,None,None,None,87823.52
+dir_masks\a5- a3\PAT_58_91_845,None,None,None,None,None,None,None,None,None,34996.395
+dir_masks\a5- a3\PAT_59_93_573,None,None,None,None,None,None,None,None,None,414578.44
+dir_masks\a5- a3\PAT_63_1075_331,None,None,None,None,None,None,None,None,None,146679.58
+dir_masks\a5- a3\PAT_69_1053_332,None,None,None,None,None,None,None,None,None,132704.05
+dir_masks\a5- a3\PAT_73_111_609,None,None,None,None,None,None,None,None,None,115625.375
+dir_masks\a5- a3\PAT_84_128_233,None,None,None,None,None,None,None,None,None,3398.6665
+dir_masks\a5- a3\PAT_93_361_51,None,None,None,None,None,None,None,None,None,7400.5923
