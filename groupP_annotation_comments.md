@@ -1,7 +1,6 @@
-#continue...
-###Annotater ID's
-a1:
-a2:
-a3:
-a4:
-a5:
+annotation id - itu credentials
+a1 - sebs
+a2 - gicu
+a3 - alji
+a4 - lorl
+a5 - mapop
