@@ -22,7 +22,9 @@ Consists of 6 distinct diagnosis, 3 skin diseases and 3 skin cancers.
     * Squamous Cell Carcinoma / Bowen's disease (SCC)
     * Melanoma (MEL)
 
- Summary: #(and how do they relate to each other?)
+ ### Summary: #(and how do they relate to each other?)
+ * Certain moles like dyplastic nevus might appear in different colors and assymetric shape that resemble melanoma but are still benign. Similarly, a spitz nevus also has a different color and dome shape while bleeding and other liquids can made it difficult to distinguish from melanoma [Source]([https://www.nhs.uk/conditions/actinic-keratoses/](https://www.healthline.com/health/nevus#types))
+ * Another difficulty in distinguishing diagnosis is between ACK and SCC. While ACK will typically resolve itself, the similar crusty and bumpy appearance of SCC will require some creams, cryotherapy or other forms of intervention to be treated depending on how widespread it has developed to avoid fatalities.
  
 
     Is there some missing data? Are there images of low quality? Etc.
