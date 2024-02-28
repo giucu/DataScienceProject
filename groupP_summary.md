@@ -41,7 +41,28 @@ Typically, a seborrheic keratosis has no symptoms. But for certain individuals, 
  * Certain moles like dyplastic nevus might appear in different colors and assymetric shape that resemble melanoma but are still benign. Similarly, a spitz nevus also has a different color and dome shape while bleeding and other liquids can made it difficult to distinguish from melanoma [Source](https://www.healthline.com/health/nevus#types)
  * Another difficulty in distinguishing diagnosis is between ACK and SCC. While ACK will typically resolve itself, the similar crusty and bumpy appearance of SCC will require some creams, cryotherapy or other forms of intervention to be treated depending on how widespread it has developed to avoid fatalities. [Source](https://balmonds.co.uk/blogs/actinic-keratosis/how-can-you-tell-the-difference-between-squamous-cell-carcinoma-and-actinic-keratosis)
  * Unlike ACT, SEK is lower risk but can have a similar appearance. However, it can be distinguished sometimes by its more wart-like appearance, with a more scale-like texture and show up less frequently on face, chest, back, stomack or shoulders, and never on hands or feet soles. [Source](https://www.healthline.com/health/skin-cancer/seborrheic-keratosis-actinic-keratosis#seborrheic-keratosis)
- 
+ * The skin deseases have a few key elements in common such as:
+1. Skin origin, as all of them represent abnormalities on the skin.
+
+2. Benign Nature: In most of the cases, apart from the Actinic Keratosis, which may progress to skin cancer if left untreated, the rest of the skin deseases have a benign nature, which means that the treatment for them is not mandatory, as long as they do not progress into something more dangerous and are evaluated by a healthcare professional.
+
+3. Sun Exposure: In this case, while Nevus is not necessarily produced by the sun, it can influence it. However, Actinic Keratosis and Seborrheic Keratosis happen due to long sun exposure.
+
+4. Need for Evaluation: The one aspect any of these skin deseases have in common is that all of them require medical evaluation. Actinic keratosis, being precancerous, requires prompt attention and often treatment to prevent progression to skin cancer.
+
+ * Skin cancers also share a few common aspects like:
+1. Origin: All of the skin cancers arise from different types of skin cells such as basal cells (BCC), squamous cells (SCC) and melanocytes, the pigment-producing cells of the skin (Melanoma).
+
+2.Sun Exposure: Both the skin deseases and skin cancers are associated with sun exposure. Prolonged exposure to ultraviolet (UV) radiation from the sun or tanning beds is a significant risk factor for all three types of skin cancer. UV exposure damages the DNA in skin cells, leading to mutations that can result in cancerous growths.
+
+3. Location of the Body: Apart from Melanomas, which can develop anywhere on the body, Basal Cell Carcinoma and Squamous Cell Carcinoma usually occur on sun-exposed areas such as the face, ears, neck, arms or scalp.
+
+4. Treatment: The treatment is mandatory and it may include surgical removal, chemitherapy and targeted therapy, depending on the type and stage of cancer.
+
+5. Prevention: Strategies to prevent all three types of skin cancer include limiting sun exposure, wearing protective clothing and sunscreen, avoiding tanning beds, and performing regular skin self-examinations to detect any changes or suspicious growths early.
+
+
+ * Overall, while skin cancers and skin diseases may have distinct characteristics and treatment approaches, their relationship underscores the importance of comprehensive skin care and vigilant monitoring to promote early detection and optimal management of both conditions. Regular skin examinations and consultations with healthcare professionals are essential for individuals at risk or those with preexisting skin conditions.
 
 #### Is there some missing data? Are there images of low quality? Etc.
 
