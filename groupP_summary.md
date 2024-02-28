@@ -19,6 +19,7 @@ Consists of 6 distinct diagnosis, 3 skin diseases and 3 skin cancers.
     * Seborrheic Keratosis (SEK)
     * A seborrheic keratosis is a type of skin growth. A knobby overgrowth of keratinocytes is referred to as keratosis. In the epidermis, or outer layer of the skin, keratinocytes are the most prevalent type of skin cell. The growths don't pose a threat. But occasionally, it might be challenging to differentiate a seborrheic keratosis from melanoma, a particularly dangerous kind of skin cancer.
 Typically, a seborrheic keratosis has no symptoms. But for certain individuals, it might: be uncomfortable and unpleasant, but depending on where it is, it usually doesn't hurt to catch on clothes.
+    * Source: https://www.healthline.com/health/seborrheic-keratosis#TOC_TITLE_HDR_1
 * Skin cancers:
     * Basal Cell Carcinoma(BCC)
     * Squamous Cell Carcinoma / Bowen's disease (SCC)
