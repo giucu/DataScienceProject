@@ -29,8 +29,8 @@ Typically, a seborrheic keratosis has no symptoms. But for certain individuals, 
          - it's considered a pre-cancerous condition, but the risk of cancer developement is less than 10%.
          - quite an aggressive cancer if left untreated
          - Treatment for Bowen disease is usually highly successful, with various options available including topical medications, cryotherapy, and surgical removal.
-*[source](https://rarediseases.org/rare-diseases/bowen-disease/)
-*Kallini, J. R., Hamed, N., & Khachemoune, A. (2015). Squamous cell carcinoma of the skin: epidemiology, classification, management, and novel trends. International           journal of dermatology, 54(2), 130-140.
+         -[source](https://rarediseases.org/rare-diseases/bowen-disease/)
+         -Kallini, J. R., Hamed, N., & Khachemoune, A. (2015). Squamous cell carcinoma of the skin: epidemiology, classification, management, and novel trends. International           journal of dermatology, 54(2), 130-140.
    
     * Melanoma (MEL)
       Melanoma, a type of skin cancer originating in melanocytes, cells responsible for producing melanin. While the exact cause of melanoma remains unclear, most cases are        linked to exposure to ultraviolet (UV) light from sunlight or artificial sources. The incidence of melanoma is rising, particularly among individuals under 40,               notably women.
