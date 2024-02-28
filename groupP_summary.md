@@ -23,19 +23,20 @@ Typically, a seborrheic keratosis has no symptoms. But for certain individuals, 
 * Skin cancers:
     * Basal Cell Carcinoma(BCC)
     * Squamous Cell Carcinoma / Bowen's disease (SCC)
-    *    - Bowen disease presents as a localized area of abnormal skin, often appearing as a well-defined, red, scaly patch or plaque.
-         - Bowen disease is considered a precursor to invasive squamous cell carcinoma.
-         - asymptomatic skin disorder, meaning lesions usually not causing any pain to the individuals
-         - affects the outermost layer of the skin
-         - it's considered a pre-cancerous condition, but the risk of cancer developement is less than 10%.
-         - quite an aggressive cancer if left untreated
-         - Treatment for Bowen disease is usually highly successful, with various options available including topical medications, cryotherapy, and surgical removal.
-         -[source](https://rarediseases.org/rare-diseases/bowen-disease/)
-         -Kallini, J. R., Hamed, N., & Khachemoune, A. (2015). Squamous cell carcinoma of the skin: epidemiology, classification, management, and novel trends. International           journal of dermatology, 54(2), 130-140.
+         * Bowen disease presents as a localized area of abnormal skin, often appearing as a well-defined, red, scaly patch or plaque.
+         * Bowen disease is considered a precursor to invasive squamous cell carcinoma.
+         * asymptomatic skin disorder, meaning lesions usually not causing any pain to the individuals
+         * affects the outermost layer of the skin
+         * it's considered a pre-cancerous condition, but the risk of cancer developement is less than 10%.
+         * quite an aggressive cancer if left untreated
+         * Treatment for Bowen disease is usually highly successful, with various options available including topical medications, cryotherapy, and surgical removal.
+         
+         * [source](https://rarediseases.org/rare-diseases/bowen-disease/)
+         * Kallini, J. R., Hamed, N., & Khachemoune, A. (2015). Squamous cell carcinoma of the skin: epidemiology, classification, management, and novel trends.            International           journal of dermatology, 54(2), 130-140.
    
     * Melanoma (MEL)
-      Melanoma, a type of skin cancer originating in melanocytes, cells responsible for producing melanin. While the exact cause of melanoma remains unclear, most cases are        linked to exposure to ultraviolet (UV) light from sunlight or artificial sources. The incidence of melanoma is rising, particularly among individuals under 40,               notably women.
-      [source](https://www.mayoclinic.org/diseases-conditions/melanoma/symptoms-causes/syc-20374884)
+       * Melanoma, a type of skin cancer originating in melanocytes, cells responsible for producing melanin. While the exact cause of melanoma remains unclear, most cases            are linked to exposure to ultraviolet (UV) light from sunlight or artificial sources. The incidence of melanoma is rising, particularly among individuals under 40,           notably women.
+      * [source](https://www.mayoclinic.org/diseases-conditions/melanoma/symptoms-causes/syc-20374884)
  ## Summary:
  * Certain moles like dyplastic nevus might appear in different colors and assymetric shape that resemble melanoma but are still benign. Similarly, a spitz nevus also has a different color and dome shape while bleeding and other liquids can made it difficult to distinguish from melanoma [Source](https://www.healthline.com/health/nevus#types)
  * Another difficulty in distinguishing diagnosis is between ACK and SCC. While ACK will typically resolve itself, the similar crusty and bumpy appearance of SCC will require some creams, cryotherapy or other forms of intervention to be treated depending on how widespread it has developed to avoid fatalities. [Source](https://balmonds.co.uk/blogs/actinic-keratosis/how-can-you-tell-the-difference-between-squamous-cell-carcinoma-and-actinic-keratosis)
