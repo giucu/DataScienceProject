@@ -21,4 +21,6 @@ a3 comments :
 
 * In certain cases it’s relatively difficult to understand whether I highlighted too much or not enough. In other cases it’s difficult to differentiate scars that may have occurred previously to the lesion we are currently focusing on. Certain lesions seem to be very familiar between themselves, making it hard to differentiate between the causes that may have caused said lesion(is it just a cut or is it a skin issue e.g.).
 
-* How much highlighting is too much highlighting? Certain areas seem to take a lot of brushing over, and it’s slightly difficult to realize whether I may have gone over the are of interest and underlined parts that do not really need to take our focus.  Some wounds are too low quality to be sure of our accentuating. 
+* How much highlighting is too much highlighting? Certain areas seem to take a lot of brushing over, and it’s slightly difficult to realize whether I may have gone over the are of interest and underlined parts that do not really need to take our focus.  Some wounds are too low quality to be sure of our accentuating.
+
+  
