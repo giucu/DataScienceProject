@@ -66,3 +66,22 @@ Typically, a seborrheic keratosis has no symptoms. But for certain individuals, 
 
 #### Is there some missing data? Are there images of low quality? Etc.
 
+All of the images in the dataset were captured on smartphones by the patients themselves. From extensive viewing of the dataset, the following trends in image quality have been observed:
+
+1. Image resolution variation:
+	As a result of being captured on different devices, the images have different resolutions. Although all of the images are cropped and resized to 750x750, the original resolution still has an effect on the quality of the image. Devices with better capture systems will yield higher quality images with more pixel information, even after being cropped and resized. It is difficult to predict exactly how this will impact the algorithm, it may be an impairment or it may prove beneficial because it will be able to classify a wider range of images.
+
+2. Lighting conditions:
+	The images span a wide variety of lighting conditions. Some images were taken with a flash, some taken in dark lighting, some have high contrast and visible shadows, some were taken under natural lighting and some under artificial lighting. Again, this may be be either beneficial or problematic for the algorithm. 
+
+3. Color reproduction
+	Because the images are captured with a wide assortment of devices by amateur photographers, there's no guarantee on color reproduction. White balancing is a task often left to the device to handle on its own but it can sometimes give incorrect results. Some of the images may be too warm or too cold depending on the ground truth. In their paper "The impact of patient clinical information on automated skin cancer detection", Andre G.C. Pacheco, Renato A. Krohling use this data set to train a skin cancer detection algorithm, and acknowledge the issue of color reproduction. They attempted to remedy it by color shifting the images as part of the pre-processing stage.
+
+4. Focus
+	Unfortunately, not all skin lesions are captured in focus of the camera, leading to a blurrier image that is more difficult to read. It goes without saying that blurry images are not ideal for training. Luckily only a small subset of images are impacted this way.
+
+5. Biopsy-proven images
+	As acknowledged by the dataset authors, not all skin lesions included are biopsy-proven. The absence of histopathological confirmation for all lesions introduces a degree of uncertainty regarding the accuracy of the disease labels assigned to these images. This lack of verification can hinder the training of reliable and precise diagnostic models.
+
+6. Skin tone diversity
+	The dataset exhibits a lack in representing darker skin tones. This limitation is a significant drawback, as the effectiveness and reliability of dermatological diagnostic tools depend on their performance across a diverse range of skin types. The underrepresentation of darker skin tones in the dataset can lead to biased algorithms that are less accurate for individuals with darker skin, a critical issue in ensuring equitable healthcare outcomes.
