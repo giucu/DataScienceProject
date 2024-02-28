@@ -10,6 +10,7 @@ Consists of 6 distinct diagnosis, 3 skin diseases and 3 skin cancers.
         * A dry, rough, and sandpaper-like patch of skin.
         * Typically small in size and not far off from the original colour of skin.
         * Usually a precursor to more serious disease like skin cancer, caused by prolonged sun exposure.
+        * Despite the low risk, up to 10% ACK can develop into SCC within 2 years if the patches remain for long times
         * [Source](https://www.nhs.uk/conditions/actinic-keratoses/)
     * Nevus (NEV)
         * Very common skin disease in the form of a brown colored collection of cells, otherwise resembling moles.
@@ -26,8 +27,8 @@ Typically, a seborrheic keratosis has no symptoms. But for certain individuals, 
     * Melanoma (MEL)
 
  ### Summary: #(and how do they relate to each other?)
- * Certain moles like dyplastic nevus might appear in different colors and assymetric shape that resemble melanoma but are still benign. Similarly, a spitz nevus also has a different color and dome shape while bleeding and other liquids can made it difficult to distinguish from melanoma [Source]([https://www.nhs.uk/conditions/actinic-keratoses/](https://www.healthline.com/health/nevus#types))
- * Another difficulty in distinguishing diagnosis is between ACK and SCC. While ACK will typically resolve itself, the similar crusty and bumpy appearance of SCC will require some creams, cryotherapy or other forms of intervention to be treated depending on how widespread it has developed to avoid fatalities.
+ * Certain moles like dyplastic nevus might appear in different colors and assymetric shape that resemble melanoma but are still benign. Similarly, a spitz nevus also has a different color and dome shape while bleeding and other liquids can made it difficult to distinguish from melanoma [Source](https://www.healthline.com/health/nevus#types)
+ * Another difficulty in distinguishing diagnosis is between ACK and SCC. While ACK will typically resolve itself, the similar crusty and bumpy appearance of SCC will require some creams, cryotherapy or other forms of intervention to be treated depending on how widespread it has developed to avoid fatalities. [Source](https://balmonds.co.uk/blogs/actinic-keratosis/how-can-you-tell-the-difference-between-squamous-cell-carcinoma-and-actinic-keratosis)
  
 
     Is there some missing data? Are there images of low quality? Etc.
