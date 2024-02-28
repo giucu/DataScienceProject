@@ -22,6 +22,9 @@ Typically, a seborrheic keratosis has no symptoms. But for certain individuals, 
         * Source: https://www.yalemedicine.org/conditions/seborrheic-keratosis
 * Skin cancers:
     * Basal Cell Carcinoma(BCC)
+    	* Type of skin cancer often appearing on areas frequently exposed to sun radiation as a transparent skin-colored or pink bump. This can be difficult to distinguish, but is typically separated from regular skin by being shinier or waxy, as well as growing in size over time.
+     	* Some lesions may develop a black or blue color, and is very likely to expand (including beyond the skin) or reoccur even after treatment. With this diagnosis, there is increased risk for other skin cancers which should be investigated as well.
+      	* On brown skin, BCC can often occur with a rolled border, and is usually found on the face. [Source](https://www.mayoclinic.org/diseases-conditions/basal-cell-carcinoma/symptoms-causes/syc-20354187)
     * Squamous Cell Carcinoma / Bowen's disease (SCC)
          * Bowen disease presents as a localized area of abnormal skin, often appearing as a well-defined, red, scaly patch or plaque.
          * Bowen disease is considered a precursor to invasive squamous cell carcinoma.
