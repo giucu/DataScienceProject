@@ -53,7 +53,7 @@ Typically, a seborrheic keratosis has no symptoms. But for certain individuals, 
  * Skin cancers also share a few common aspects like:
 1. Origin: All of the skin cancers arise from different types of skin cells such as basal cells (BCC), squamous cells (SCC) and melanocytes, the pigment-producing cells of the skin (Melanoma).
 
-2.Sun Exposure: Both the skin deseases and skin cancers are associated with sun exposure. Prolonged exposure to ultraviolet (UV) radiation from the sun or tanning beds is a significant risk factor for all three types of skin cancer. UV exposure damages the DNA in skin cells, leading to mutations that can result in cancerous growths.
+2. Sun Exposure: Both the skin deseases and skin cancers are associated with sun exposure. Prolonged exposure to ultraviolet (UV) radiation from the sun or tanning beds is a significant risk factor for all three types of skin cancer. UV exposure damages the DNA in skin cells, leading to mutations that can result in cancerous growths.
 
 3. Location of the Body: Apart from Melanomas, which can develop anywhere on the body, Basal Cell Carcinoma and Squamous Cell Carcinoma usually occur on sun-exposed areas such as the face, ears, neck, arms or scalp.
 
