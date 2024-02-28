@@ -17,8 +17,9 @@
 
     * Seborrheic Keratosis (SEK)
         * A seborrheic keratosis is a type of skin growth. A knobby overgrowth of keratinocytes is referred to as keratosis. In the epidermis, or outer layer of the skin, keratinocytes are the most prevalent type of skin cell. The growths don't pose a threat. But occasionally, it might be challenging to differentiate a seborrheic keratosis from melanoma, a particularly dangerous kind of skin cancer.
-Typically, a seborrheic keratosis has no symptoms. But for certain individuals, it might: be uncomfortable and unpleasant, but depending on where it is, it usually doesn't hurt to catch on clothes.
+Typically, a seborrheic keratosis has no symptoms. But for certain individuals, it might: be uncomfortable and unpleasant, but depending on where it is, it usually doesn't hurt to catch on clothes. Rarely, a person may have an abrupt increase in the amount of seborrheic keratosis growths. This could be the extremely unusual "Leser-Trélat sign," which suggests that a person may have leukemia, lymphoma, lung cancer, or gastrointestinal cancer.Causes of seborrheic keratosis include: A family history of seborrheic keratosis, Fibroblast growth factor receptor 3 (FGFR3) genetic mutation, PIK3CA genetic mutation, Pregnancy, Hormone therapy. People are more likely to develop seborrheic keratosis if they: Are age 50 or older, Have spent a significant amount of time sunbathing or with the skin exposed to the sun, Are pregnant, etc
         * Source: https://www.healthline.com/health/seborrheic-keratosis#TOC_TITLE_HDR_1
+        * Source: https://www.yalemedicine.org/conditions/seborrheic-keratosis
 * Skin cancers:
     * Basal Cell Carcinoma(BCC)
     * Squamous Cell Carcinoma / Bowen's disease (SCC)
