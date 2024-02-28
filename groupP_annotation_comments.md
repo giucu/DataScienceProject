@@ -23,4 +23,7 @@ a3 comments :
 
 * How much highlighting is too much highlighting? Certain areas seem to take a lot of brushing over, and it’s slightly difficult to realize whether I may have gone over the are of interest and underlined parts that do not really need to take our focus.  Some wounds are too low quality to be sure of our accentuating.
 
-  
+a5 comments :
+
+* Most of the images had an irritation that standed out, but some of them were surrounded by a reddish section which was a little blurred so it may have been challenging to decide whether to take that as a part of the lesion or not. Also, some pictures has many small are very small irritation parts, some of them maybe too small to take them into consideration.
+* When is a lesion too small to be considered insignificant?  
