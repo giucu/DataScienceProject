@@ -23,6 +23,12 @@ a3 comments :
 
 * How much highlighting is too much highlighting? Certain areas seem to take a lot of brushing over, and it’s slightly difficult to realize whether I may have gone over the are of interest and underlined parts that do not really need to take our focus.  Some wounds are too low quality to be sure of our accentuating.
 
+a4 comments :
+
+* The presence of excessive light reflection in the images captured by the phone made it difficult to clearly distinguish between the lesions and the surrounding skin.
+
+* Additionally, some images contained circles drawn with a pen to indicate the location of the lesions. However, it was unclear whether the annotations should encompass the entire area circled by the pen or if assumptions about the lesion boundaries should be made, further complicating the annotation process.
+
 a5 comments :
 
 * Most of the images had an irritation that standed out, but some of them were surrounded by a reddish section which was a little blurred so it may have been challenging to decide whether to take that as a part of the lesion or not. Also, some pictures has many small are very small irritation parts, some of them maybe too small to take them into consideration.
