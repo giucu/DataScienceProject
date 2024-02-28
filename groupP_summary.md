@@ -18,8 +18,8 @@
     * Seborrheic Keratosis (SEK)
         * A seborrheic keratosis is a type of skin growth. A knobby overgrowth of keratinocytes is referred to as keratosis. In the epidermis, or outer layer of the skin, keratinocytes are the most prevalent type of skin cell. The growths don't pose a threat. But occasionally, it might be challenging to differentiate a seborrheic keratosis from melanoma, a particularly dangerous kind of skin cancer.
 Typically, a seborrheic keratosis has no symptoms. But for certain individuals, it might: be uncomfortable and unpleasant, but depending on where it is, it usually doesn't hurt to catch on clothes. Rarely, a person may have an abrupt increase in the amount of seborrheic keratosis growths. This could be the extremely unusual "Leser-Trélat sign," which suggests that a person may have leukemia, lymphoma, lung cancer, or gastrointestinal cancer.Causes of seborrheic keratosis include: A family history of seborrheic keratosis, Fibroblast growth factor receptor 3 (FGFR3) genetic mutation, PIK3CA genetic mutation, Pregnancy, Hormone therapy. People are more likely to develop seborrheic keratosis if they: Are age 50 or older, Have spent a significant amount of time sunbathing or with the skin exposed to the sun, Are pregnant, etc
-        * Source: https://www.healthline.com/health/seborrheic-keratosis#TOC_TITLE_HDR_1
-        * Source: https://www.yalemedicine.org/conditions/seborrheic-keratosis
+        * [Source](https://www.healthline.com/health/seborrheic-keratosis#TOC_TITLE_HDR_1)
+        * [Source](https://www.yalemedicine.org/conditions/seborrheic-keratosis)
 * Skin cancers:
     * Basal Cell Carcinoma(BCC)
     	* Type of skin cancer often appearing on areas frequently exposed to sun radiation as a transparent skin-colored or pink bump. This can be difficult to distinguish, but is typically separated from regular skin by being shinier or waxy, as well as growing in size over time.
@@ -45,31 +45,31 @@ Typically, a seborrheic keratosis has no symptoms. But for certain individuals, 
  * Another difficulty in distinguishing diagnosis is between ACK and SCC. While ACK will typically resolve itself, the similar crusty and bumpy appearance of SCC will require some creams, cryotherapy or other forms of intervention to be treated depending on how widespread it has developed to avoid fatalities. [Source](https://balmonds.co.uk/blogs/actinic-keratosis/how-can-you-tell-the-difference-between-squamous-cell-carcinoma-and-actinic-keratosis)
  * Unlike ACT, SEK is lower risk but can have a similar appearance. However, it can be distinguished sometimes by its more wart-like appearance, with a more scale-like texture and show up less frequently on face, chest, back, stomack or shoulders, and never on hands or feet soles. [Source](https://www.healthline.com/health/skin-cancer/seborrheic-keratosis-actinic-keratosis#seborrheic-keratosis)
  * The skin deseases have a few key elements in common such as:
-1. Skin origin, as all of them represent abnormalities on the skin.
+	1. Skin origin, as all of them represent abnormalities on the skin.
 
-2. Benign Nature: In most of the cases, apart from the Actinic Keratosis, which may progress to skin cancer if left untreated, the rest of the skin deseases have a benign nature, which means that the treatment for them is not mandatory, as long as they do not progress into something more dangerous and are evaluated by a healthcare professional.
+	2. Benign Nature: In most of the cases, apart from the Actinic Keratosis, which may progress to skin cancer if left untreated, the rest of the skin deseases have a benign nature, which means that the treatment for them is not mandatory, as long as they do not progress into something more dangerous and are evaluated by a healthcare professional.
 
-3. Sun Exposure: In this case, while Nevus is not necessarily produced by the sun, it can influence it. However, Actinic Keratosis and Seborrheic Keratosis happen due to long sun exposure.
+	3. Sun Exposure: In this case, while Nevus is not necessarily produced by the sun, it can influence it. However, Actinic Keratosis and Seborrheic Keratosis happen due to long sun exposure.
 
-4. Need for Evaluation: The one aspect any of these skin deseases have in common is that all of them require medical evaluation. Actinic keratosis, being precancerous, requires prompt attention and often treatment to prevent progression to skin cancer.
+	4. Need for Evaluation: The one aspect any of these skin deseases have in common is that all of them require medical evaluation. Actinic keratosis, being precancerous, requires prompt attention and often treatment to prevent progression to skin cancer.
 
  * Skin cancers also share a few common aspects like:
-1. Origin: All of the skin cancers arise from different types of skin cells such as basal cells (BCC), squamous cells (SCC) and melanocytes, the pigment-producing cells of the skin (Melanoma).
+	1. Origin: All of the skin cancers arise from different types of skin cells such as basal cells (BCC), squamous cells (SCC) and melanocytes, the pigment-producing cells of the skin (Melanoma).
 
-2. Sun Exposure: Both the skin deseases and skin cancers are associated with sun exposure. Prolonged exposure to ultraviolet (UV) radiation from the sun or tanning beds is a significant risk factor for all three types of skin cancer. UV exposure damages the DNA in skin cells, leading to mutations that can result in cancerous growths.
+	2. Sun Exposure: Both the skin deseases and skin cancers are associated with sun exposure. Prolonged exposure to ultraviolet (UV) radiation from the sun or tanning beds is a significant risk factor for all three types of skin cancer. UV exposure damages the DNA in skin cells, leading to mutations that can result in cancerous growths.
 
-3. Location of the Body: Apart from Melanomas, which can develop anywhere on the body, Basal Cell Carcinoma and Squamous Cell Carcinoma usually occur on sun-exposed areas such as the face, ears, neck, arms or scalp.
+	3. Location of the Body: Apart from Melanomas, which can develop anywhere on the body, Basal Cell Carcinoma and Squamous Cell Carcinoma usually occur on sun-exposed areas such as the face, ears, neck, arms or scalp.
 
-4. Treatment: The treatment is mandatory and it may include surgical removal, chemitherapy and targeted therapy, depending on the type and stage of cancer.
+	4. Treatment: The treatment is mandatory and it may include surgical removal, chemitherapy and targeted therapy, depending on the type and stage of cancer.
 
-5. Prevention: Strategies to prevent all three types of skin cancer include limiting sun exposure, wearing protective clothing and sunscreen, avoiding tanning beds, and performing regular skin self-examinations to detect any changes or suspicious growths early.
+	5. Prevention: Strategies to prevent all three types of skin cancer include limiting sun exposure, wearing protective clothing and sunscreen, avoiding tanning beds, and performing regular skin self-examinations to detect any changes or suspicious growths early.
 
 
  * Overall, while skin cancers and skin diseases may have distinct characteristics and treatment approaches, their relationship underscores the importance of comprehensive skin care and vigilant monitoring to promote early detection and optimal management of both conditions. Regular skin examinations and consultations with healthcare professionals are essential for individuals at risk or those with preexisting skin conditions.
 
 #### Is there some missing data? Are there images of low quality? Etc.
 
-All of the images in the dataset were captured on smartphones by the patients themselves. From extensive viewing of the dataset, the following trends in image quality have been observed:
+   All of the images in the dataset were captured on smartphones by the patients themselves. From extensive viewing of the dataset, the following trends in image quality have been observed:
 
 1. Image resolution variation:
 	As a result of being captured on different devices, the images have different resolutions. Although all of the images are cropped and resized to 750x750, the original resolution still has an effect on the quality of the image. Devices with better capture systems will yield higher quality images with more pixel information, even after being cropped and resized. It is difficult to predict exactly how this will impact the algorithm, it may be an impairment or it may prove beneficial because it will be able to classify a wider range of images.
