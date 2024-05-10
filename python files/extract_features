@@ -1,21 +1,14 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from skimage import morphology #for measuring things in the masks
-
-import os
-from os.path import exists
-import pandas as pd
+from skimage import morphology
 import numpy as np
 import matplotlib.pyplot as plt
 import cv2
-
 import skimage.io
 from skimage.transform import rotate
 from skimage.filters import threshold_otsu, gaussian, laplace
 from skimage.measure import label, regionprops
 from scipy.ndimage import binary_erosion
-
-from math import sqrt
 from numpy import pi
 from skimage import transform
 from skimage.color import rgb2gray, rgba2rgb
@@ -25,8 +18,13 @@ from skimage import io, color, morphology, measure
 # Feauture functions
 #------------------
 
+# (for combination of feature functions, skip to next section)
 
 def crop_im(image, mask):
+    '''With image and corresponding ground truth mask as input, will apply the binary mask on the image to crop out
+    lesion as well as extra rows and columns not containing pixels depicting the lesion.
+    '''
+
     image[mask==0] = 0
 
     non_black_rows = []
@@ -46,6 +44,10 @@ def crop_im(image, mask):
 
 #Asymmetry
 def rotation_crop(image, mask):
+    '''using 'getsym' function, calculated the symmetry score of the lesion at different angles
+    and returns %symmetry of image
+    '''
+
     angles = [0, 22.5, 45, 67.5, 90, 112.5]
     scores = []
     images = []
@@ -61,9 +63,12 @@ def rotation_crop(image, mask):
         symm = getsym(res)
         avgsym = (symm[0] + symm[1])/2
         scores.append(avgsym)
-    return max(scores)
+    m = max(scores)
+    return (m)
 
 def getsym(image):
+    '''Calculates asymmetry of image given mask'''
+
     h, w = image.shape[:2]
     hm = h // 2
     wm = w // 2
@@ -83,7 +88,7 @@ def getsym(image):
     vintersection = np.logical_and(upper, lower)
 
     voverlap_percentage = (np.sum(vintersection) / np.sum(upper)) * 100
-#######
+
     if w % 2 == 0:  # Width is even
         left = image[:, :wm]
         right = image[:, wm:]
@@ -130,7 +135,10 @@ def calculateSegmentationScore(segmented_img, mask):
     area_segmented_img = cv2.countNonZero(segmented_img)
     score = (area_segmented_img / area_mask) * 100
 
-    return score
+    if score > 0.4:
+        return (1)
+    else:
+        return(0)
 
 def depigmentation(img, mask):
 
@@ -340,18 +348,21 @@ def getColorFeatures(image, mask):
     q3 = np.quantile(color_mean_value, 0.75, interpolation='midpoint')
     iqr_val = q3 - q1
 
-    return (hue_sd, satur_sd, value_sd)
+    if value_sd > 19.44089411041169:
+        return(1)
+    else:
+        return(0)
 
 
-################################################################################################
-
-#Main function to extract features from an image, that calls other functions    
+########################################################################
+# FEATURE EXTRACTION FUNCTION
+########################################################################
 
 def extract_features2(image_path, mask_path):
-    
 
     im = plt.imread(image_path)
     im = np.float16(im)  
+    im /= 255
     mask = plt.imread(mask_path)
 
     ## feature 1
@@ -363,20 +374,10 @@ def extract_features2(image_path, mask_path):
     segmentedim = segmentImage(image_path, mask_path)
     Blue_gray_granules = calculateSegmentationScore(segmentedim, mask)
 
-    ## feature 3
-    roundness = get_roundness(mask)
-    compactness = get_compactness(mask)
-
-    ## feature 4
-    textureim = skimage.io.imread(image_path)
-    if textureim.shape[-1] == 4:
-        textureim = rgba2rgb(textureim)
-    Mean_Laplacian, Std_Dev_Laplacian = get_surface_texture(textureim)
-
     ## feature 5
-    Hue, Sat, Val = getColorFeatures(im, mask)
+    Val = getColorFeatures(im, mask)
 
 
     #Here you need to add more of your custom-made functions for measuring features!
 
-    return np.array([asymmetry, depimentation, Blue_gray_granules, roundness, compactness, Mean_Laplacian, Std_Dev_Laplacian, Sat, Val, Hue], dtype=np.float16)
+    return np.array([asymmetry, depimentation, Blue_gray_granules,  Val], dtype=np.float16)
