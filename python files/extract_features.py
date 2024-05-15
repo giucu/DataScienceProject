@@ -385,8 +385,4 @@ def extract_features2(image_path, mask_path):
 
     ## feature 5
     Val = getColorFeatures(im, mask)
-
-
-    #Here you need to add more of your custom-made functions for measuring features!
-
     return np.array([asymmetry, depimentation, Blue_gray_granules,  Val], dtype=np.float16)
