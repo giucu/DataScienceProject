@@ -167,10 +167,16 @@ def get_area(mask):
     '''
     Input a mask and get the area of the lesion, full area of the image, and %of image covered by lesion
     '''
-
+#create a binary mask where pixels with values greater than 0 are set to 1 (True) and others to 0 (False)
     binary_mask = (mask > 0).astype(np.uint8)
+
+#calculate the total area covered by the mask
     mask_area = np.sum(binary_mask)
+
+#calculates the original area of the mask.
     original_area = np.prod(mask.shape)
+
+#computes the percentage of area covered by the mask compared to the original area
     percentage_covered = (mask_area / original_area) * 100
     return mask_area
 
@@ -201,11 +207,14 @@ def get_roundness(mask):
     maxdim = 0
     sum = 0
     for i in range(8):
+
+#Finding the maximum number of pixels in any column
         pixels_in_col = np.sum(mask, axis=0)
         max_pixels_in_col = np.max(pixels_in_col)
         if max_pixels_in_col > maxdim:
             maxdim = max_pixels_in_col
         sum += max_pixels_in_col
+#Rotating the mask by 45 degrees for the next iteration
         m2 = transform.rotate(mask, 45)
     return round(((sum/8)/maxdim)*100,2)
 
