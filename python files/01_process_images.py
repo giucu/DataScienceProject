@@ -179,10 +179,12 @@ for i in np.arange(0,2000):
         mask = plt.imread(file_mask)
 
         asymm = rotation_crop(im, mask)
-        compact = 
-        round = 
+        compact = get_compactness(mask)
+        round = get_roundness(mask)
         # Storing variable in array
         features[i,1] = asymm
+        features[i,2] = compact
+        features[i,3] = round
 
         if df.loc[i, "melanoma"]==1:
             features[i,0] = 1
