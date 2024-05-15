@@ -183,8 +183,8 @@ for i in np.arange(0,2000):
         round = get_roundness(mask)
         # Storing variable in array
         features[i,1] = asymm
-        features[i,2] = compact
-        features[i,3] = round
+        features[i,4] = compact
+        features[i,5] = round
 
         if df.loc[i, "melanoma"]==1:
             features[i,0] = 1
