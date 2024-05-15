@@ -37,6 +37,7 @@ patient_id = df[id]
 num_folds = 5
 group_kfold = GroupKFold(n_splits=num_folds)
 group_kfold.get_n_splits(x, y, patient_id)
+num_classifiers = len(classifiers)
    
 acc_val = np.empty([num_folds,num_classifiers])
 
