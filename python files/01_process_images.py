@@ -11,6 +11,7 @@ from skimage.filters import threshold_otsu
 from skimage.measure import label, regionprops
 import matplotlib.pyplot as plt
 from scipy.ndimage import binary_erosion
+import extract_features.py
 
 #####################################################
 # Feature score functions
@@ -140,7 +141,7 @@ path_image = 'images'
 path_mask = 'masks'
   
 #Name of saved csv file
-file_features = 'asymmetry4.csv'
+file_features = 'compiled2.csv'
 
 #Read meta-data
 df = pd.read_csv(file_data)
@@ -152,7 +153,7 @@ label = np.array(df['melanoma'])
 num_images = len(image_id)
 
 #Feature and other csv headings array:
-feature_names = ['Diagnosis', 'Asymmetry','image ID']
+feature_names = ['Diagnosis','Asymmetry','Blue_gray_granules','Depigmentation','Compactness','Roundness','Mean_Laplacian','Std_Dev_Laplacian','Sat SD', 'Val SD', 'Hue SD','image ID']
 num_features = len(feature_names)
 features = np.zeros([num_images,num_features], dtype=np.float16)  
 
@@ -177,10 +178,10 @@ for i in np.arange(0,2000):
 
         mask = plt.imread(file_mask)
 
-        x = rotation_crop(im, mask)
+        asymm = rotation_crop(im, mask)
            
         # Storing variable in array
-        features[i,1] = x
+        features[i,1] = asymm
 
         if df.loc[i, "melanoma"]==1:
             features[i,0] = 1
