@@ -179,7 +179,8 @@ for i in np.arange(0,2000):
         mask = plt.imread(file_mask)
 
         asymm = rotation_crop(im, mask)
-           
+        compact = 
+        round = 
         # Storing variable in array
         features[i,1] = asymm
 
