@@ -135,7 +135,7 @@ def calculateSegmentationScore(segmented_img, mask):
     area_segmented_img = cv2.countNonZero(segmented_img)
     score = (area_segmented_img / area_mask) * 100
 
-    if score > 0.4:
+    if score > 0.3:
         return (1)
     else:
         return(0)
@@ -357,7 +357,7 @@ def getColorFeatures(image, mask):
     q3 = np.quantile(color_mean_value, 0.75, interpolation='midpoint')
     iqr_val = q3 - q1
 
-    if value_sd > 19.44089411041169:
+    if value_sd > 18:
         return(1)
     else:
         return(0)
@@ -378,11 +378,11 @@ def extract_features2(image_path, mask_path):
     asymmetry = rotation_crop(im, mask)
 
     ## feature 2
-    depimentation  = depigmentation(im, mask)
+    depiment  = depigmentation(im, mask)
     ##
     segmentedim = segmentImage(image_path, mask_path)
     Blue_gray_granules = calculateSegmentationScore(segmentedim, mask)
 
     ## feature 5
     Val = getColorFeatures(im, mask)
-    return np.array([asymmetry, depimentation, Blue_gray_granules,  Val], dtype=np.float16)
+    return np.array([asymmetry, Blue_gray_granules, depigment,  Val], dtype=np.float16)
