@@ -1,4 +1,4 @@
-import os
+ract_featuresimport os
 from os.path import exists
 import pandas as pd
 import numpy as np
@@ -179,8 +179,8 @@ for i in np.arange(0,2000):
         mask = plt.imread(file_mask)
 
         asymm = rotation_crop(im, mask)
-        compact = get_compactness(mask)
-        round = get_roundness(mask)
+        compact = extract_features.get_compactness(mask)
+        round = extract_features.get_roundness(mask)
         # Storing variable in array
         features[i,1] = asymm
         features[i,4] = compact
