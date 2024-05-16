@@ -224,9 +224,10 @@ def get_roundness(mask):
 def get_surface_texture(image):
     gray = rgb2gray(image)
     blurred = gaussian(gray, sigma=1)
+    
+    #apply Laplacian filter to the blurred image
     laplacian = laplace(blurred)
     mean, std_dev = laplacian.mean(), laplacian.std()
-    print(mean)
     return mean, std_dev
 
 #Color variation
