@@ -20,7 +20,7 @@ df = pd.read_csv(file_data)
 label = np.array(df['melanoma'])
 
 #Location of data extracted by feature for all training images
-file_features = 'Compiled2.csv'
+file_features = 'compiled_features.csv'
 
 #we orignally had tried 10 features, but used only 4 in the end
 #feature_names = ['Asymmetry','Blue_gray_granules','Depigmentation','Compactness','Roundness','Mean_Laplacian','Std_Dev_Laplacian','Sat SD', 'Val SD', 'Hue SD']
@@ -33,6 +33,11 @@ x = np.array(df_features[feature_names])
 y =  label == 1 
 id = 'image_id'
 patient_id = df[id]
+
+
+classifiers = [
+    KNeighborsClassifier(2)
+]
 
 num_folds = 5
 group_kfold = GroupKFold(n_splits=num_folds)
@@ -69,5 +74,5 @@ classifier = KNeighborsClassifier(n_neighbors = 2)
 classifier = classifier.fit(x,y)
 
 # Saving pickle / classifier
-filename = 'groupP_classifier2.sav'
+filename = 'groupP_classifier.sav'
 pickle.dump(classifier, open(filename, 'wb'))
