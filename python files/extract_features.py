@@ -110,34 +110,34 @@ def getsym(image):
     #print("Percentage of v-overlap:", voverlap_percentage, "Percentage of h-overlap:", hoverlap_percentage)
     return (voverlap_percentage, hoverlap_percentage)
 
-
+#Dot detection, Function to apply adaptive threshold segmentation on an image using a mask
 def segmentImage(input_img_path, mask_img_path, threshold=131, blockSize=15):
-
+# Read the input image
     img = cv2.imread(input_img_path)
 
-
+ # Convert the image to grayscale
     gray_img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
-
+# Apply adaptive thresholding to convert to a binary image
     binary_img = cv2.adaptiveThreshold(gray_img, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C,
                                        cv2.THRESH_BINARY_INV, threshold, blockSize)
 
-
+# Read the mask image in grayscale
     mask = cv2.imread(mask_img_path, cv2.IMREAD_GRAYSCALE)
-
+# Apply the mask to the binary image to retain only relevant regions
     segmented_img = cv2.bitwise_and(binary_img, binary_img, mask=mask)
 
     return segmented_img
-
+# Function to calculate the segmentation score between the segmented image and the mask
 def calculateSegmentationScore(file_im, file_mask):
-
+# Calculate the non-zero pixel count in the mask
     seg_im = segmentImage(file_im, file_mask)
     mask = plt.imread(file_mask)
-
+ # Calculate the non-zero pixel count in the segmented image
     area_mask = cv2.countNonZero(mask)
     area_segmented_img = cv2.countNonZero(seg_im)
     score = (area_segmented_img / area_mask) * 100
-
+# Compute the segmentation score as the ratio of non-zero pixels in the segmented image to the mask
     if score > 0.4:
         return (1)
     else:
