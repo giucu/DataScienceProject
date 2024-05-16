@@ -23,7 +23,7 @@ file_data = 'ISIC-2017_Training_Part3_GroundTruth.csv'
 path_image = 'images'
 path_mask = 'masks'
 
-n_imgs = 10 #change to fit your data set size
+n_imgs = 10 #change to fit your data set size. Our classifier is trained on 746 images.
 
 #Name of saved csv file
 file_features = 'compiled_features.csv'
