@@ -129,13 +129,16 @@ def segmentImage(input_img_path, mask_img_path, threshold=131, blockSize=15):
 
     return segmented_img
 
-def calculateSegmentationScore(segmented_img, mask):
+def calculateSegmentationScore(file_im, file_mask):
+
+    seg_im = segmentImage(file_im, file_mask)
+    mask = plt.imread(file_mask)
 
     area_mask = cv2.countNonZero(mask)
-    area_segmented_img = cv2.countNonZero(segmented_img)
+    area_segmented_img = cv2.countNonZero(seg_im)
     score = (area_segmented_img / area_mask) * 100
 
-    if score > 0.3:
+    if score > 0.4:
         return (1)
     else:
         return(0)
@@ -223,6 +226,7 @@ def get_surface_texture(image):
     blurred = gaussian(gray, sigma=1)
     laplacian = laplace(blurred)
     mean, std_dev = laplacian.mean(), laplacian.std()
+    print(mean)
     return mean, std_dev
 
 #Color variation
@@ -350,14 +354,9 @@ def getColorFeatures(image, mask):
     satur_sd = np.std(np.array(color_mean_satur))
 
     # * Compute SD for value
-    value_sd =np.std(np.array(color_mean_value))
+    value_sd = np.std(np.array(color_mean_value))
 
-    # * Computing IQR range for color values
-    q1 = np.quantile(color_mean_value, 0.25, interpolation='midpoint')
-    q3 = np.quantile(color_mean_value, 0.75, interpolation='midpoint')
-    iqr_val = q3 - q1
-
-    if value_sd > 18:
+    if value_sd > 19.44089411041169: # binary output from the val SD
         return(1)
     else:
         return(0)
@@ -367,7 +366,7 @@ def getColorFeatures(image, mask):
 # FEATURE EXTRACTION FUNCTION
 ########################################################################
 
-def extract_features2(image_path, mask_path):
+def feature_extraction(image_path, mask_path):
 
     im = plt.imread(image_path)
     im = np.float16(im)  
@@ -378,11 +377,12 @@ def extract_features2(image_path, mask_path):
     asymmetry = rotation_crop(im, mask)
 
     ## feature 2
-    depiment  = depigmentation(im, mask)
-    ##
-    segmentedim = segmentImage(image_path, mask_path)
-    Blue_gray_granules = calculateSegmentationScore(segmentedim, mask)
+    depig = depigmentation(im, mask)
 
-    ## feature 5
+    ## feature 3
+    Blue_gray_granules = calculateSegmentationScore(image_path, mask_path)
+
+    ## feature 4
     Val = getColorFeatures(im, mask)
-    return np.array([asymmetry, Blue_gray_granules, depigment,  Val], dtype=np.float16)
+
+    return np.array([asymmetry, depig, Blue_gray_granules,  Val], dtype=np.float16)
